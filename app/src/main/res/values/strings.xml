@@ -1,0 +1,15 @@
+<resources>
+
+
+    <string name="app_name">simpleListView app_clency</string>
+
+    <string-array name="services">
+
+        <item>Fuliza</item>
+        <item>KCB mpesa</item>
+        <item>Okoa Jahazi</item>
+        <item>Send money</item>
+        <item>Send Token</item>
+
+    </string-array>
+</resources>
